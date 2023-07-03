@@ -1,0 +1,15 @@
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\bin\Debug\net7.0\Assingmnet_3.exe
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\bin\Debug\net7.0\Assingmnet_3.deps.json
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\bin\Debug\net7.0\Assingmnet_3.runtimeconfig.json
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\bin\Debug\net7.0\Assingmnet_3.dll
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\bin\Debug\net7.0\Assingmnet_3.pdb
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\Assingmnet_3.csproj.AssemblyReference.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\Assingmnet_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\Assingmnet_3.AssemblyInfoInputs.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\Assingmnet_3.AssemblyInfo.cs
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\Assingmnet_3.csproj.CoreCompileInputs.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\Assingmnet_3.dll
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\refint\Assingmnet_3.dll
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\Assingmnet_3.pdb
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\Assingmnet_3.genruntimeconfig.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assingmnet3\Assingmnet_3\obj\Debug\net7.0\ref\Assingmnet_3.dll
