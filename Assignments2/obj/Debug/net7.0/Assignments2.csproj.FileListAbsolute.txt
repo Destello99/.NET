@@ -1,0 +1,15 @@
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\bin\Debug\net7.0\Assignments2.exe
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\bin\Debug\net7.0\Assignments2.deps.json
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\bin\Debug\net7.0\Assignments2.runtimeconfig.json
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\bin\Debug\net7.0\Assignments2.dll
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\bin\Debug\net7.0\Assignments2.pdb
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\Assignments2.csproj.AssemblyReference.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\Assignments2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\Assignments2.AssemblyInfoInputs.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\Assignments2.AssemblyInfo.cs
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\Assignments2.csproj.CoreCompileInputs.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\Assignments2.dll
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\refint\Assignments2.dll
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\Assignments2.pdb
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\Assignments2.genruntimeconfig.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignments2\obj\Debug\net7.0\ref\Assignments2.dll
