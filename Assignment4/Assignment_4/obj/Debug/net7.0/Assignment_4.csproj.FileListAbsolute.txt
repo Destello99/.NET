@@ -1,0 +1,15 @@
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\Assignment_4.csproj.AssemblyReference.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\Assignment_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\Assignment_4.AssemblyInfoInputs.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\Assignment_4.AssemblyInfo.cs
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\Assignment_4.csproj.CoreCompileInputs.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\bin\Debug\net7.0\Assignment_4.exe
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\bin\Debug\net7.0\Assignment_4.deps.json
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\bin\Debug\net7.0\Assignment_4.runtimeconfig.json
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\bin\Debug\net7.0\Assignment_4.dll
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\bin\Debug\net7.0\Assignment_4.pdb
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\Assignment_4.dll
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\refint\Assignment_4.dll
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\Assignment_4.pdb
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\Assignment_4.genruntimeconfig.cache
+C:\Users\dac\Downloads\.NET\Batch2\Assignments\Assignment4\Assignment_4\obj\Debug\net7.0\ref\Assignment_4.dll
